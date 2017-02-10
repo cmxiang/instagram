@@ -1,0 +1,13 @@
+<html>
+	<h1>Your Image Feed</h1>
+	<br>
+</html>
+
+<% @posts.each do |x| %>
+	<div class="white">
+		<%= image_tag x.image.url(:medium) %>
+	</div>
+	<div class="desc">
+		<%= x.description %>
+	</div>
+<% end %>
