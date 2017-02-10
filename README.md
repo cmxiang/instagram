@@ -9,11 +9,13 @@ Home Page/Image Feed:
 
 Register:
 ![alt text](https://github.com/cmxiang/instagram/blob/master/screenshots/Signup.png)
+
 Register Success Message:
 ![alt text](https://github.com/cmxiang/instagram/blob/master/screenshots/Signup_Success.png)
 
 Log In:
 ![alt text](https://github.com/cmxiang/instagram/blob/master/screenshots/Login.png)
+
 Log In Success Message:
 ![alt text](https://github.com/cmxiang/instagram/blob/master/screenshots/Signin_Success.png)
 
