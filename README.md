@@ -5,3 +5,4 @@ Create a instagram-like website that allows users to post and view images by fol
 
 # Screenshots:
 Register:
+![alt text](https://github.com/cmxiang/instagram/blob/master/screenshots/Signup.png)
